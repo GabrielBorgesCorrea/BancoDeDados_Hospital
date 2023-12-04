@@ -69,15 +69,6 @@ Crie um script que adicione uma coluna “em_atividade” para os médicos, indi
 
 Crie um script para atualizar ao menos dois médicos como inativos e os demais em atividade.
 
-ALTER TABLE medico ADD em_atividade VARCHAR(100);
-
-UPDATE medico SET em_atividade = 'Ativo' WHERE id_medico = 1;
-UPDATE medico SET em_atividade = 'Inativo' WHERE id_medico = 2;
-UPDATE medico SET em_atividade = 'Ativo' WHERE id_medico = 3;
-UPDATE medico SET em_atividade = 'Ativo' WHERE id_medico = 4;
-UPDATE medico SET em_atividade = 'Ativo' WHERE id_medico = 5;
-UPDATE medico SET em_atividade = 'Inativo' WHERE id_medico = 6;
-UPDATE medico SET em_atividade = 'Ativo' WHERE id_medico = 7;
-UPDATE medico SET em_atividade = 'Ativo' WHERE id_medico = 8;
-UPDATE medico SET em_atividade = 'Ativo' WHERE id_medico = 9;
-UPDATE medico SET em_atividade = 'Ativo' WHERE id_medico = 10;
+<br>
+<img align='center' src='Alt.Banco.png'/>
+<br>
